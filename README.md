@@ -1,7 +1,7 @@
 <!-- ==================== TOP BANNER ==================== -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=220&section=header&text=Fares%20Shaaban&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20in%20the%20Making%20%7C%20Python%20%7C%20SQL%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/farosaX0)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=220&section=header&text=Farosa&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20SQL%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn)](https://github.com/farosaX0)
 
 <!-- Dynamic Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey%2C+I'm+Fares+%F0%9F%91%8B;Python+%26+SQL+Developer+%F0%9F%90%8D;Data+Explorer+%F0%9F%93%8A;LeetCode+Grinder+%F0%9F%92%A1;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
